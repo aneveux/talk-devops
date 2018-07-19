@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body {
+  font-family: 'Droid Serif';
+}
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: 400;
+  margin-bottom: 0;
+}
+.remark-slide-content h1 { font-size: 3em; }
+.remark-slide-content h2 { font-size: 2em; }
+.remark-slide-content h3 { font-size: 1.6em; }
+.footnote {
+  position: absolute;
+  bottom: 3em;
+}
+li p { line-height: 1.25em; }
+.red { color: #fa0000; }
+.large { font-size: 2em; }
+a, a > code {
+  color: rgb(249, 38, 114);
+  text-decoration: none;
+}
+code {
+  background: #e7e8e2;
+  border-radius: 5px;
+}
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+.remark-code-line-highlighted     { background-color: #373832; }
+#slideshow .slide .content code {
+  font-size: 0.8em;
+}
+#slideshow .slide .content pre code {
+  font-size: 0.9em;
+  padding: 15px;
+}
+.inverse {
+  background: #272822;
+  color: #777872;
+  text-shadow: 0 0 20px #333;
+}
+.inverse h1, .inverse h2 {
+  color: #f3f3f3;
+  line-height: 0.8em;
+}
+.left-column {
+  width: 30%;
+  float: left;
+}
+.right-column {
+  width: 65%;
+  float: right;
+}
+img {
+  max-width: 90%;
+  max-height: 90%;
+}
+ul {
+  list-style-type: none;
+}
+ul li {
+  padding: 10px 0;
+}
+.twitter img {
+  width:50px;
+  vertical-align: middle;
+}
+.red {
+  background-color: #ee4035;
+  color:#ccc;
+}
+.red_slides {
+  border-left: 20px solid #ee4035;
+}
+.yellow {
+  background-color: #fdf498;
+}
+.yellow_slides {
+  border-left: 20px solid #fdf498;
+}
+.orange {
+  background-color: #f37736;
+}
+.orange_slides {
+  border-left: 20px solid #f37736;
+}
+.blue {
+  background-color: #0392cf;
+  color: #ccc;
+}
+.blue_slides {
+  border-left: 20px solid #0392cf;
+}
+.green {
+  background-color: #7bc043;
+}
+.green_slides {
+  border-left: 20px solid #7bc043;
+}
+.purple {
+  background-color: #433e90;
+  color: #ccc;
+}
+.purple_slides {
+  border-left: 20px solid #433e90;
+}
