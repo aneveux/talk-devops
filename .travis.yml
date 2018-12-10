@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "7"
+before_script:
+  - npm install -g backslide@2.1.0
+script:
+  - bs e -o export/
+  - cp -r img export/
+deploy:
+  provider: pages
+  skip-cleanup: true
+  keep-history: true
+  local-dir: export
+  github-token: $GITHUB_TOKEN
+  target-branch: gh-pages
