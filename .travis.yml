@@ -6,6 +6,7 @@ before_script:
 script:
   - bs e -o export/
   - cp -r img export/
+  - rm export/README.html
 deploy:
   provider: pages
   skip-cleanup: true
