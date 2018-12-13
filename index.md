@@ -111,7 +111,7 @@ class: animation-fade, responsive, middle, center, border1
 ---
 class: impact
 
-#Context
+#Before talking about DevOps...
 
 ---
 layout: true
@@ -188,7 +188,7 @@ class: animation-fade, responsive, middle, center, border3
 
 #Dev &amp; Ops are different.
 
-##Admit it and don't be afraid to say it.
+##Don't be afraid to say it.
 
 ???
 
@@ -286,7 +286,7 @@ class: impact, noborder
 
 ---
 
-#Developers will want to automate the tests of your infrastructure provisionning!
+#Developers will want to automate the tests of your infrastructure provisioning!
 
 ---
 class: impact, noborder
@@ -393,9 +393,20 @@ layout: true
 class: animation-fade, responsive, middle, center, border4
 ---
 
-#Workshops &amp; Presentations
+.gif[![](img/together.gif)]
 
 ???
+
+* You need to build things together!
+* If you don't have the same target, you won't do things together.
+
+---
+
+.gif[![](img/introduction.gif)]
+
+???
+
+#Workshops &amp; Presentations
 
 * That is a must have starting point!
 * People should know each others!
@@ -405,12 +416,13 @@ class: animation-fade, responsive, middle, center, border4
 
 ---
 
-.responsive[![](img/retro.png)]
+.gif[![](img/retro.gif)]
 
 ???
 
 #Retrospective Meetings!
 
+* Share your real problems.
 * I'm talking about real retrospectives, with a nice animation!
 * Where people are searching for actions and solutions to enhance the global situation!
 * Not a place where people just yell at each others.
@@ -420,13 +432,22 @@ class: animation-fade, responsive, middle, center, border4
 
 #Good starting point?
 
-### Ask people for their main issue and how to fix it!
+### Ask people about their main issue and how they'd fix it!
 
-_It's rarely just a tool, they'd be using it already_
+_It's rarely just a tool, they'd be using it already..._
 
 ---
 
-.responsive[![](img/pair.jpg)]
+.gif[![](img/realistic.gif)]
+
+???
+
+* Make sure you're reaching realistic plans...
+* Deciding things you won't even be able to reach isn't so motivating...
+
+---
+
+.gif[![](img/pair.gif)]
 
 ???
 
@@ -437,11 +458,11 @@ _It's rarely just a tool, they'd be using it already_
 
 ---
 
-.responsive[![](img/workshop.png)]
+.gif[![](img/iterate.gif)]
 
 ???
 
-#Regular Workshops
+#Repeat it!
 
 * Workshops shouldn't be a one time meeting...
 * Otherwise they're easily forgotten!
@@ -453,7 +474,7 @@ _It's rarely just a tool, they'd be using it already_
 
 ---
 
-.responsive[![](img/archi.jpg)]
+.gif[![](img/architecture.gif)]
 
 ???
 
@@ -464,7 +485,7 @@ _It's rarely just a tool, they'd be using it already_
 
 ---
 
-.responsive[![](img/kind.jpg)]
+.gif[![](img/love.gif)]
 
 ???
 
@@ -474,7 +495,7 @@ _It's rarely just a tool, they'd be using it already_
 
 ---
 
-.responsive[![](img/trust.png)]
+.gif[![](img/trust.gif)]
 
 ???
 
@@ -487,7 +508,7 @@ _It's rarely just a tool, they'd be using it already_
 
 ---
 
-.responsive[![](img/questions.jpg)]
+.gif[![](img/why.gif)]
 
 ???
 
@@ -498,11 +519,13 @@ _It's rarely just a tool, they'd be using it already_
 ---
 class: impact, noborder
 
-#Methodologies?
+#Methodologies &amp; Organization?
 
 ---
 
-#Scrum probably isn't going to fit so much...
+#Using SCRUM was kind of a failure...
+
+.big[It didn't fit very well...]
 
 ???
 
@@ -512,7 +535,7 @@ class: impact, noborder
 
 ---
 
-#You can try Kanban...
+#So we tried Kanban...
 
 ???
 
@@ -520,10 +543,9 @@ class: impact, noborder
 
 ---
 
-#Or you can have 2 different lifecycles!
+#And even having 2 lifecycles!
 
-* Predictable tasks on one side,
-* Unpredictable ones on another support!
+###Predictable VS. Unpredictable.
 
 ???
 
@@ -532,7 +554,7 @@ class: impact, noborder
 
 ---
 
-#Anyway, keep in mind to have a balanced backlog!
+#Actually the main problem was to keep having a balanced backlog.
 
 ???
 
@@ -593,7 +615,7 @@ layout: true
 class: animation-fade, responsive, middle, center, border5
 ---
 
-.responsive[![](img/evolution.png)]
+## Human >> Process >> Tool
 
 ???
 
@@ -624,27 +646,21 @@ class: animation-fade, responsive, middle, center, border5
 
 ---
 
-#Let the team express their issues...
+#The team needs to express the problem, and find the proper solution.
 
 ---
 
-#And let the team find solutions!
+#For a DevOps transition, coaching is better than guidance.
 
 ---
 
-#You can simply ask good questions to bring the team towards good solutions...
+.gif[![](img/solution.gif)]
 
----
+???
 
-#But please don't come up with off-the-shelf solutions...
-
----
-
-#If you're not part of the team, you probably don't know their exact problems...
-
---
-
-###And you'll most likely miss the target with out-of-the-box solutions.
+* Please no off-the-shelf solutions!
+* They'll most likely be out of context
+* The team needs to find what is a solution for them!
 
 ---
 
@@ -655,19 +671,13 @@ layout: true
 class: animation-fade, responsive, middle, center, noborder
 ---
 
-#DevOps is no silver bullet.
+#DevOps isn't:
+
+###A silver bullet, tools, processes, job profiles, the solution to everything.
 
 ---
 
-#DevOps isn't tools, processes, or job profiles...
-
----
-
-#DevOps is a human transformation within a team.
-
----
-
-#DevOps is to be customized for each team. For each context.
+#DevOps is: a human transformation within a team.
 
 ---
 
@@ -675,7 +685,7 @@ class: animation-fade, responsive, middle, center, noborder
 
 ---
 
-#But...
+.gif[![](img/but.gif)]
 
 ---
 
