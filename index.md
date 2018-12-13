@@ -38,7 +38,6 @@ layout: true
 class: animation-fade, responsive, middle, center, border1
 ---
 
-#Disclaimer!
 .gif[![](img/wait.gif)]
 
 ---
